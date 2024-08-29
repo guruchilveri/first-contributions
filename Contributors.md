@@ -3,6 +3,7 @@
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
 -[Felipe calle](https://github.com/Felipe0987) **Hello This is so good :J**
 - [S Mahesh](https://github.com/Mahe9041) **Ready to start my first open source journey**
+- [Omar Baraja](https://github.com/omarbr44) **My goal is to be able to read pro code**
 - [Aditya Pratama](https://github.com/Aditypraa) **Nice to meet you all, I'm proud to be here**
 - [Kevin Morales](https://github.com/KeviinMoralees) **Everyone on this list is going to be successful. :D**
 - [Leonardo Bazan Marquez](https://github.com/ky210299) **Come to grow together**
@@ -50,6 +51,7 @@ Rakesh Radhakrishnan dev was here.
 - [Agamjot Bedi](https://github.com/agxmbedi) **Hi agam this side**
 - [Gabriel Lipaysa](https://github.com/Er000s) **I am now ready for world domination**
 - [Nalindu Melaka](https://github.com/NalinduMelaka)***This is my contribution***
+- [April Gloreanne Mactal](https://github.com/reanneee) **very demure**
 - [Aadesh Dubey](https://github.com/aadeshdubey) **Joining Contributors List**
 - [ni pate](https://github.com/nipate) **I am a newbie!**
 - [lsAnn](https://github.com/AnnLov) **First time ? Huh ?
@@ -865,6 +867,7 @@ mh
 - [Harsh Anand](https://github.com/harshrox) ***Greetings, everyone! This is my first open source contribution.***
 - [Swapnil](https://github.com/swapnilpatil-github/) Hmm!!!Lets Do This 💪🔥
 - [Tiago Afonso](https://github.com/thiago-Coderr) Contributing to open source helps foster innovation, collaboration, and community growth
+- [KazperCoder](https://github.com/SayVarady) **So my new journey shall start here,**
 - [Wingyee He](https://github.com/KuKustudy) **This is Wingyee from Australia, lets GOOOO**
 - [Phanis Parpas](https://github.com/fparpas) **This is Phanis from lovely and sunny Cyprus**
 - [Aman Kumar]-Yeah!!done with my first contribution lets see whats next 
@@ -897,7 +900,7 @@ mh
 - [Shashank](https://github.com/shshaank) **hey, this is my second pr**
 - Nifane Borges
 - [Mario Gonzalez Lozano] (https://github.com/Mayin2023mj)
-- [John Pert Millena]
+- [John Pert Millena] (https://github.com/JohnP3rt) **Hello! This is my first contribution**
 - [Caleb Yaghoubi](https://github.com/Caleby315) **Thanks for the help 
 - [Sameer Mathad] (https://github.com/sameermathad) **Let's go 🚀**
 - Suryanshi - KVY 
@@ -7543,3 +7546,4 @@ vivek saskar
 - [FionaFu](https://github.com/annanfu) **Testing the fork!** 
 - [Aymen Mejri](https://github.com/napalmCore) **Hello all :) ***
 
+                                                              
