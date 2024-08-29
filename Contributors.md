@@ -73,8 +73,9 @@ Rakesh Radhakrishnan dev was here.
 - [Ajiththeerthiya](https://github.com/Ajiththeerthiya)**My First contribution, I am excited**
 -[Akshay Sodhi](https://github.com/AkshaySodhi) **Hello**
 -[Shivam Moray](https://github.com/shivam-moray/)**This is my first github open source contribution**
--[Guruprasad Chilveri](https://github.com/guruchilveri/) **This is my first github open source contribution**
+
 -[Sohan Rai](https://github.com/SohanRaidev/)**Hey there!! Yes YOU! Best of luck. Sohan was here! 17Y/O**
+-[Guruprasad Chilveri](https://github.com/guruchilveri/) **This is my first github open source contribution**
 -[Mariela Montaldo](https://github.com/m0nt4ld0/)**Marie was here! This is my first open source contribution**
 -[DorianMcCutchan] (https://github.com/DorianMcCutchan) **this is my first contribution**
 -[Shrinedhi](https://github.com/Web-Dev-Learner)**this is my first opensource contribution**
